@@ -1,0 +1,23 @@
+2015-04-01 12:43:04          INFO   :       >> Logging start
+2015-04-01 12:43:04          INFO   :       Connected to Server
+2015-04-01 12:43:04          INFO   :       Local dir created 
+2015-04-01 12:43:05          INFO   :       File downloading
+2015-04-01 12:43:05          INFO   :       File Stored : C:\Users\admin\AppData\Local\Temp\source_downloads_from_server\source1\BSP-11TH.TXT
+2015-04-01 12:43:05          INFO   :       Local target dir created : C:\Users\admin\AppData\Local\Temp\source_downloads_from_server\target1
+2015-04-01 12:43:05          INFO   :       File decrypted : C:\Users\admin\AppData\Local\Temp\source_downloads_from_server\source1\BSP-11TH.TXT
+2015-04-01 12:43:05          INFO   :       File stored : C:\Users\admin\AppData\Local\Temp\source_downloads_from_server\target1\BSP-11TH.TXT
+2015-04-01 12:43:06          INFO   :       File uploaded : target1/BSP-11TH.TXT
+2015-04-01 12:43:08          INFO   :       Dir completed created at server: /source1/completed
+2015-04-01 12:43:08          INFO   :       Dir error created at server: /source1/error
+2015-04-01 12:43:08          INFO   :       SERVER: 221 Good-Bye
+2015-04-01 12:43:08          INFO   :       Moving server file : /source1/BSP-11TH.TXT
+2015-04-01 12:43:08          INFO   :       File moved to : //source1//completed//BSP-11TH.TXT
+2015-04-01 12:43:08          INFO   :       File moved >> completed folder
+2015-04-01 12:43:08          INFO   :       removing file or directory : BSP-11TH.TXT
+2015-04-01 12:43:08          INFO   :       removing file or directory : source1
+2015-04-01 12:43:08          INFO   :       removing file or directory : BSP-11TH.TXT
+2015-04-01 12:43:08          INFO   :       removing file or directory : target1
+2015-04-01 12:43:08          INFO   :       removing file or directory : source_downloads_from_server
+2015-04-01 12:43:14          INFO   :       Email sent successfully...
+2015-04-01 12:43:14          INFO   :       Disconnected 
+2015-04-01 12:43:14          INFO   :       >> Logging ends

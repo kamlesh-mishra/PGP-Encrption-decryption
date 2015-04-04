@@ -1,0 +1,9 @@
+2015-04-01 13:56:02          ERROR  :       Property file not found :java.io.FileNotFoundException: C:\Users\admin\git\localrepository\Project - Bunbury-citi\bin\connect.properties (The system cannot find the file specified)
+2015-04-01 13:56:02          ERROR  :       Error from Property file :java.lang.NullPointerException
+2015-04-01 13:56:02          WARN   :       Unable to connect to FTP server : java.lang.NullPointerException
+2015-04-01 13:56:02          INFO   :       Disconnected 
+2015-04-01 13:56:02          INFO   :       >> Logging ends
+2015-04-01 13:56:02          INFO   :        
+2015-04-01 13:56:02          INFO   :        
+2015-04-01 13:56:02          INFO   :        
+2015-04-01 13:56:02          INFO   :        
